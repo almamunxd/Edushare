@@ -1,0 +1,185 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: 0;
+}
+
+
+/* font-family: 'Inter',
+sans-serif; */
+
+.navbar .navbar-nav .nav-link {
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    letter-spacing: -0.01em;
+    color: #030303;
+}
+
+.navbar .navbar-nav .active {
+    font-weight: 600;
+}
+
+.navbar .btn {
+    padding: 10px 30px;
+    border-radius: 12px;
+    background: #E8F1FF;
+    font-weight: 600;
+    font-size: 16px;
+    color: #2378FF;
+    font-family: 'Inter', sans-serif;
+}
+
+.banner .row .col-xl-6 .Get-started {
+    width: 180px;
+    height: 55px;
+    left: 135px;
+    top: 553px;
+    background: #F77E53;
+    border-radius: 16px;
+    color: #FEF4F1;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    font-family: 'Inter', sans-serif;
+}
+
+.banner .row .col-xl-6 .banner-text h1 {
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 72px;
+    color: #101130;
+}
+
+
+/* font-weight: 400;
+font-size: 20px;
+line-height: 32px;
+color: #606176; */
+
+.banner .row .col-xl-6 .banner-text p {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    color: #606176;
+    font-family: 'Roboto', sans-serif;
+}
+
+.banner .row .col-xl-6 p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #606176;
+}
+
+.banner .row .col-xl-6 .banner-image {
+    width: 594px;
+    height: 560px;
+    left: 721px;
+    top: 145px;
+}
+
+.sponsors .row .col-xl-3 p {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 62px;
+    line-height: 75px;
+    color: #101131;
+}
+
+.sponsors .row .col-xl-3 h6 {
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    letter-spacing: -0.01em;
+    color: #606176;
+}
+
+.sponsors .row {
+    margin-top: 125px;
+    margin-bottom: 130px;
+}
+
+.sponsors .row .col-xl-9 {
+    margin-top: 42px;
+}
+
+.sponsors .row .col-xl-9 .Mc-gill {
+    width: 168.65px;
+    height: 60px;
+    margin-left: 40px;
+}
+
+.sponsors .row .col-xl-9 .amity {
+    width: 160px;
+    height: 53px;
+    margin-left: 30px;
+}
+
+.sponsors .row .col-xl-9 .houston {
+    width: 190px;
+    height: 60px;
+    margin-right: 10px;
+    margin-left: 30px;
+}
+
+.sponsors .row .col-xl-9 .plymouth {
+    width: 150px;
+    height: 90px;
+    margin-left: 30px;
+}
+
+.products .row.col-xl-5 {
+    width: 429px;
+    height: 703px;
+    left: 134px;
+    top: 1108px;
+}
+
+.products .row .col-xl-7 .works {
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 56px;
+    letter-spacing: -0.01em;
+    color: #101130;
+}
+
+.products .row .col-xl-7 img {
+    width: 60px;
+    height: 60px;
+    margin-left: 15px;
+}
+
+.products .row .col-xl-7 h5 {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: #101130;
+}
+
+.products .row .col-xl-7 .card-body .card-text {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    color: #606176;
+}
+
+.products .row .col-xl-7 .pro-1 .card-1 {
+    margin-left: 15px;
+    margin-right: 30px;
+}
+
+.products .row .col-xl-7 {
+    margin-left: ;
+}
+
+.products .row .col-xl-7 .pro-2 .card-3 {
+    margin-left: 15px;
+    margin-right: 30px;
+}
